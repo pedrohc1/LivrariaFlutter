@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'pages/home.dart'; // Suponhamos que o arquivo "home.dart" está na pasta "pages"
+import 'pages/home.dart';
 
 void main() {
   debugProfileBuildsEnabled = false;
