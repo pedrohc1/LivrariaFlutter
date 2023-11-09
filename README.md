@@ -1,16 +1,7 @@
-# projetos
+Um projeto para pós graduação utilizando flutter e usando a API Google Books 
 
-A new Flutter project.
+![image](https://github.com/pedrohc1/LivrariaFlutter/assets/86142962/56dc802a-74d9-45fc-a10d-daecbef8fc02)
+![image](https://github.com/pedrohc1/LivrariaFlutter/assets/86142962/fad86ec6-8695-4117-ad02-aed5173c806a)
+![image](https://github.com/pedrohc1/LivrariaFlutter/assets/86142962/a7b7c261-8d76-4b1e-bccb-e16a5e167222)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
